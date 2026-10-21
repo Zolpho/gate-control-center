@@ -2,6 +2,8 @@
 
 **Self-hosted Gate.io trading, native trading bot monitoring, portfolio analytics, and wallet management.**
 
+[**Explore the GCC Live Demo →**](https://zolpho.github.io/gate-bot-dashboard/)
+
 Gate Control Center (GCC) brings Gate.io operations into a unified web interface. Originally built to monitor exchange-native trading bots, it has evolved to include supported trading operations, multi-account wallet management, analytics, security, and administrative controls.
 
 > **Project status:** Active development · **Source:** Private / proprietary · **Exchange:** Gate.io
@@ -35,9 +37,9 @@ Gate Control Center (GCC) brings Gate.io operations into a unified web interface
 
 ## Screenshots and demonstration
 
-Public-safe screenshots of the actual Aurora interface and a verified demo link will be added here.
+A curated set of Aurora screenshots is being prepared for publication. The demo includes simulated account operations and separately identified exchange read-only data.
 
-The demonstration must not expose live exchange accounts, credentials, private operational details, or production funds.
+[**Open Live Demo**](https://zolpho.github.io/gate-bot-dashboard/)
 
 ## Roadmap
 
