@@ -63,6 +63,39 @@ Isolated Demo-session security presentation.
 - **Security:** Authentication, per-account action controls, root administrator policies, and auditing.
 - **Interfaces:** Aurora, Classic, and isolated Demo experiences.
 
+## Development Activity
+
+GCC is actively developed in a private source repository. This public activity feed exposes only **commit dates and reviewed commit titles**—not source code, hashes, authors, diffs, private links, credentials, or operational details.
+
+<!-- gcc-development-activity:start -->
+
+**Private `main` history:** **418** published commits from **August 1, 2026** through **October 24, 2026**.
+
+**By month:** **August:** 237 · **September:** 106 · **October:** 75
+
+### Recent activity
+
+- **2026-10-24** — Default dashboard to Aurora and compact interface selector
+- **2026-10-24** — Place withdrawal confirm action with authorization
+- **2026-10-24** — Prioritize withdrawal lifecycle in request detail
+- **2026-10-24** — Clarify withdrawal lifecycle progress
+- **2026-10-22** — Use single confirmation for withdrawal lifecycle
+- **2026-10-22** — Align Wallet transfer confirmation styling
+- **2026-10-21** — Improve shared trading cancellation confirmation UX
+- **2026-10-21** — Fix Demo trading execution status presentation
+- **2026-10-21** — Fix Demo trading execution result validation
+- **2026-10-21** — Fix Demo trading preview public-read validation
+- **2026-10-19** — Replace MIT license with proprietary EQTY DAO license
+- **2026-10-18** — M4.31 allow Demo to view public bot Trades
+
+[**View the complete development history →**](DEVELOPMENT.md)
+
+<!-- gcc-development-activity:end -->
+
+### GitHub contribution graph
+
+For broader development activity, [view Zolpho's GitHub profile and contribution graph](https://github.com/Zolpho). When GitHub's **Private contributions** option is enabled, private-repository activity appears there anonymously. The profile graph covers overall GitHub activity, not GCC exclusively.
+
 ## Roadmap
 
 Exploratory areas include expanded reporting and multi-exchange support, initially investigating KuCoin and Binance. No support is promised until feasibility is confirmed.
