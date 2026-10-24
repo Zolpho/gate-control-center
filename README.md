@@ -96,9 +96,28 @@ GCC is actively developed in a private source repository. This public activity f
 
 For broader development activity, [view Zolpho's GitHub profile and contribution graph](https://github.com/Zolpho). When GitHub's **Private contributions** option is enabled, private-repository activity appears there anonymously. The profile graph covers overall GitHub activity, not GCC exclusively.
 
-## Roadmap
+## Issues, Feedback & Roadmap
 
-Exploratory areas include expanded reporting and multi-exchange support, initially investigating KuCoin and Binance. No support is promised until feasibility is confirmed.
+The public [GCC Issues tracker](https://github.com/Zolpho/gate-control-center/issues) is the place for:
+
+- reproducible product bugs
+- user-facing feature requests
+- feedback about GCC behavior or usability
+- selected public roadmap and exploration items
+
+GCC development and source remain private. Internal implementation work, deployment/infrastructure details, security investigations, and other operationally sensitive work are intentionally kept out of the public tracker.
+
+**Never post API keys, API secrets, account credentials, recovery material, private account details, or sensitive screenshots in a public issue.**
+
+### Selected roadmap
+
+- [Native Open Orders for Spot Grid and Infinity Grid](https://github.com/Zolpho/gate-control-center/issues/1)
+- [Telegram notifications and read-only bot integration](https://github.com/Zolpho/gate-control-center/issues/2)
+- [Passkey / WebAuthn login](https://github.com/Zolpho/gate-control-center/issues/3)
+- [Show the actual Gate VIP level for each Wallet account](https://github.com/Zolpho/gate-control-center/issues/5)
+- [Multi-exchange support (KuCoin and Binance)](https://github.com/Zolpho/gate-control-center/issues/6) — **Exploring / nice to have**
+
+Completed public product milestones may also be retained in Issues for context, such as [Demo mode](https://github.com/Zolpho/gate-control-center/issues/4).
 
 ## Availability
 
