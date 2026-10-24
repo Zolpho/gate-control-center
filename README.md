@@ -69,12 +69,13 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **418** published commits from **August 1, 2026** through **October 24, 2026**.
+**Private `main` history:** **419** published commits from **August 1, 2026** through **October 24, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 75
+**By month:** **August:** 237 · **September:** 106 · **October:** 76
 
 ### Recent activity
 
+- **2026-10-24** — Add public GCC development activity sync
 - **2026-10-24** — Default dashboard to Aurora and compact interface selector
 - **2026-10-24** — Place withdrawal confirm action with authorization
 - **2026-10-24** — Prioritize withdrawal lifecycle in request detail
@@ -86,7 +87,6 @@ GCC is actively developed in a private source repository. This public activity f
 - **2026-10-21** — Fix Demo trading execution result validation
 - **2026-10-21** — Fix Demo trading preview public-read validation
 - **2026-10-19** — Replace MIT license with proprietary EQTY DAO license
-- **2026-10-18** — M4.31 allow Demo to view public bot Trades
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 418 published commits from **August 1, 2026** through **October 24, 2026**.
+**Coverage:** 419 published commits from **August 1, 2026** through **October 24, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -506,6 +506,7 @@ Entries are listed chronologically, from the beginning of the project.
 - Prioritize withdrawal lifecycle in request detail
 - Place withdrawal confirm action with authorization
 - Default dashboard to Aurora and compact interface selector
+- Add public GCC development activity sync
 
 ---
 
