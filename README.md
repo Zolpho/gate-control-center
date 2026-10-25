@@ -69,24 +69,24 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **419** published commits from **August 1, 2026** through **October 24, 2026**.
+**Private `main` history:** **458** published commits from **August 1, 2026** through **October 25, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 76
+**By month:** **August:** 237 · **September:** 106 · **October:** 115
 
 ### Recent activity
 
-- **2026-10-24** — Add public GCC development activity sync
-- **2026-10-24** — Default dashboard to Aurora and compact interface selector
-- **2026-10-24** — Place withdrawal confirm action with authorization
-- **2026-10-24** — Prioritize withdrawal lifecycle in request detail
-- **2026-10-24** — Clarify withdrawal lifecycle progress
-- **2026-10-22** — Use single confirmation for withdrawal lifecycle
-- **2026-10-22** — Align Wallet transfer confirmation styling
-- **2026-10-21** — Improve shared trading cancellation confirmation UX
-- **2026-10-21** — Fix Demo trading execution status presentation
-- **2026-10-21** — Fix Demo trading execution result validation
-- **2026-10-21** — Fix Demo trading preview public-read validation
-- **2026-10-19** — Replace MIT license with proprietary EQTY DAO license
+- **2026-10-25** — Fix public development activity validation
+- **2026-10-25** — Add Rootadmin Hard Freeze controls
+- **2026-10-25** — Require reason only for Rootadmin Hard Freeze
+- **2026-10-25** — Add Rootadmin Hard Freeze API
+- **2026-10-25** — Enforce Hard Freeze across Gate mutations
+- **2026-10-25** — Repair stale regression test contracts
+- **2026-10-25** — Add Hard Freeze policy foundation
+- **2026-10-25** — Close Aurora dialog focus palette leftovers
+- **2026-10-25** — Palette Aurora shared dialog neutral chrome
+- **2026-10-25** — Correct Aurora Trading account geometry
+- **2026-10-25** — Widen Aurora Trading account selector
+- **2026-10-25** — Palette Aurora Alerts incident neutral interior
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

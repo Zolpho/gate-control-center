@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 419 published commits from **August 1, 2026** through **October 24, 2026**.
+**Coverage:** 458 published commits from **August 1, 2026** through **October 25, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -507,6 +507,47 @@ Entries are listed chronologically, from the beginning of the project.
 - Place withdrawal confirm action with authorization
 - Default dashboard to Aurora and compact interface selector
 - Add public GCC development activity sync
+- M4.42 optimize portfolio history fast path
+- M4.43 fix portfolio history integrity and overview redraw
+- M4.44 allow deleting archived withdrawal recipients
+- M4.45 polish Aurora withdrawal recipients
+- M4.45 refine Aurora withdrawal recipients
+- M4.46 add network recipient authorization foundation
+- M4.46 add recipient network authorization management
+- M4.46 add advisory network authorization resolver
+- M4.46 integrate network authorization into withdrawal preflight
+### October 25, 2026
+
+- Add Aurora color themes and Wallet Donate palettes
+- Migrate Aurora Withdrawal surfaces to color themes
+- Migrate Aurora Transfer surfaces to color themes
+- Migrate Aurora Treasury request dialogs to color themes
+- Polish Aurora Treasury recipient details
+- Harden SQLite backup publication
+- Palette Aurora Bot Control shell
+- Palette Aurora Bot Control dialogs
+- Palette Aurora Trading shell
+- Palette Aurora Trading order ticket
+- Palette Aurora Trading market data
+- Palette Aurora Trading passive presentation
+- Palette Aurora Overview neutral presentation
+- Palette Aurora Bots neutral presentation
+- Palette Aurora Alerts neutral presentation
+- Palette Aurora Security neutral presentation
+- Palette Aurora System neutral presentation
+- Palette Aurora Bot Detail neutral presentation
+- Palette Aurora Alerts incident neutral interior
+- Widen Aurora Trading account selector
+- Correct Aurora Trading account geometry
+- Palette Aurora shared dialog neutral chrome
+- Close Aurora dialog focus palette leftovers
+- Add Hard Freeze policy foundation
+- Repair stale regression test contracts
+- Enforce Hard Freeze across Gate mutations
+- Add Rootadmin Hard Freeze API
+- Require reason only for Rootadmin Hard Freeze
+- Add Rootadmin Hard Freeze controls
+- Fix public development activity validation
 
 ---
 
