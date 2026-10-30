@@ -69,24 +69,24 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **458** published commits from **August 1, 2026** through **October 25, 2026**.
+**Private `main` history:** **465** published commits from **August 1, 2026** through **October 30, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 115
+**By month:** **August:** 237 · **September:** 106 · **October:** 122
 
 ### Recent activity
 
+- **2026-10-30** — Add cross-device favicon support
+- **2026-10-29** — Keep Trading chart neutral dark
+- **2026-10-29** — Use palette-aware trading brand logo
+- **2026-10-29** — Refine favicon tab rendering
+- **2026-10-29** — Replace favicon with trading mark
+- **2026-10-29** — Add GCC favicon
+- **2026-10-29** — Palette Overview active incidents card
 - **2026-10-25** — Fix public development activity validation
 - **2026-10-25** — Add Rootadmin Hard Freeze controls
 - **2026-10-25** — Require reason only for Rootadmin Hard Freeze
 - **2026-10-25** — Add Rootadmin Hard Freeze API
 - **2026-10-25** — Enforce Hard Freeze across Gate mutations
-- **2026-10-25** — Repair stale regression test contracts
-- **2026-10-25** — Add Hard Freeze policy foundation
-- **2026-10-25** — Close Aurora dialog focus palette leftovers
-- **2026-10-25** — Palette Aurora shared dialog neutral chrome
-- **2026-10-25** — Correct Aurora Trading account geometry
-- **2026-10-25** — Widen Aurora Trading account selector
-- **2026-10-25** — Palette Aurora Alerts incident neutral interior
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 458 published commits from **August 1, 2026** through **October 25, 2026**.
+**Coverage:** 465 published commits from **August 1, 2026** through **October 30, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -548,6 +548,17 @@ Entries are listed chronologically, from the beginning of the project.
 - Require reason only for Rootadmin Hard Freeze
 - Add Rootadmin Hard Freeze controls
 - Fix public development activity validation
+### October 29, 2026
+
+- Palette Overview active incidents card
+- Add GCC favicon
+- Replace favicon with trading mark
+- Refine favicon tab rendering
+- Use palette-aware trading brand logo
+- Keep Trading chart neutral dark
+### October 30, 2026
+
+- Add cross-device favicon support
 
 ---
 
