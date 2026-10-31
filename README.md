@@ -69,12 +69,14 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **465** published commits from **August 1, 2026** through **October 30, 2026**.
+**Private `main` history:** **467** published commits from **August 1, 2026** through **October 30, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 122
+**By month:** **August:** 237 · **September:** 106 · **October:** 124
 
 ### Recent activity
 
+- **2026-10-30** — Remove Aurora tab backdrop artifacts
+- **2026-10-30** — Fix Aurora layout containment
 - **2026-10-30** — Add cross-device favicon support
 - **2026-10-29** — Keep Trading chart neutral dark
 - **2026-10-29** — Use palette-aware trading brand logo
@@ -85,8 +87,6 @@ GCC is actively developed in a private source repository. This public activity f
 - **2026-10-25** — Fix public development activity validation
 - **2026-10-25** — Add Rootadmin Hard Freeze controls
 - **2026-10-25** — Require reason only for Rootadmin Hard Freeze
-- **2026-10-25** — Add Rootadmin Hard Freeze API
-- **2026-10-25** — Enforce Hard Freeze across Gate mutations
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

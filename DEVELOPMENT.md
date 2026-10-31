@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 465 published commits from **August 1, 2026** through **October 30, 2026**.
+**Coverage:** 467 published commits from **August 1, 2026** through **October 30, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -559,6 +559,8 @@ Entries are listed chronologically, from the beginning of the project.
 ### October 30, 2026
 
 - Add cross-device favicon support
+- Fix Aurora layout containment
+- Remove Aurora tab backdrop artifacts
 
 ---
 
