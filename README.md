@@ -69,12 +69,14 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **467** published commits from **August 1, 2026** through **October 30, 2026**.
+**Private `main` history:** **469** published commits from **August 1, 2026** through **November 8, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 2
 
 ### Recent activity
 
+- **2026-11-08** — Harden Donate pending address handling
+- **2026-11-08** — Handle pending deposit addresses and Wallet routes
 - **2026-10-30** — Remove Aurora tab backdrop artifacts
 - **2026-10-30** — Fix Aurora layout containment
 - **2026-10-30** — Add cross-device favicon support
@@ -85,8 +87,6 @@ GCC is actively developed in a private source repository. This public activity f
 - **2026-10-29** — Add GCC favicon
 - **2026-10-29** — Palette Overview active incidents card
 - **2026-10-25** — Fix public development activity validation
-- **2026-10-25** — Add Rootadmin Hard Freeze controls
-- **2026-10-25** — Require reason only for Rootadmin Hard Freeze
 
 [**View the complete development history →**](DEVELOPMENT.md)
 
