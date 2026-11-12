@@ -69,24 +69,24 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **469** published commits from **August 1, 2026** through **November 8, 2026**.
+**Private `main` history:** **479** published commits from **August 1, 2026** through **November 12, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 2
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 12
 
 ### Recent activity
 
+- **2026-11-12** — Unify Trading order authorization
+- **2026-11-11** — Wire guarded Market execution frontend
+- **2026-11-11** — Expose Market execution API contract
+- **2026-11-11** — Add Market execution backend core
+- **2026-11-11** — Prepare Market execution foundation
+- **2026-11-11** — Explain disabled Limit buy percentages
+- **2026-11-11** — Fit Limit GTC selector text
+- **2026-11-11** — Fit Market IOC selector text
+- **2026-11-11** — Polish Market order preview presentation
+- **2026-11-11** — Add Market order preview mode
 - **2026-11-08** — Harden Donate pending address handling
 - **2026-11-08** — Handle pending deposit addresses and Wallet routes
-- **2026-10-30** — Remove Aurora tab backdrop artifacts
-- **2026-10-30** — Fix Aurora layout containment
-- **2026-10-30** — Add cross-device favicon support
-- **2026-10-29** — Keep Trading chart neutral dark
-- **2026-10-29** — Use palette-aware trading brand logo
-- **2026-10-29** — Refine favicon tab rendering
-- **2026-10-29** — Replace favicon with trading mark
-- **2026-10-29** — Add GCC favicon
-- **2026-10-29** — Palette Overview active incidents card
-- **2026-10-25** — Fix public development activity validation
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

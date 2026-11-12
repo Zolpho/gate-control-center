@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 469 published commits from **August 1, 2026** through **November 8, 2026**.
+**Coverage:** 479 published commits from **August 1, 2026** through **November 12, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -568,6 +568,20 @@ Entries are listed chronologically, from the beginning of the project.
 
 - Handle pending deposit addresses and Wallet routes
 - Harden Donate pending address handling
+### November 11, 2026
+
+- Add Market order preview mode
+- Polish Market order preview presentation
+- Fit Market IOC selector text
+- Fit Limit GTC selector text
+- Explain disabled Limit buy percentages
+- Prepare Market execution foundation
+- Add Market execution backend core
+- Expose Market execution API contract
+- Wire guarded Market execution frontend
+### November 12, 2026
+
+- Unify Trading order authorization
 
 ---
 
