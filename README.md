@@ -69,12 +69,16 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **479** published commits from **August 1, 2026** through **November 12, 2026**.
+**Private `main` history:** **483** published commits from **August 1, 2026** through **November 13, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 12
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 16
 
 ### Recent activity
 
+- **2026-11-13** — Fix Demo market capability loading
+- **2026-11-12** — Authorize Demo market execution route
+- **2026-11-12** — Enable Demo market order simulation
+- **2026-11-12** — Improve Trading order history presentation
 - **2026-11-12** — Unify Trading order authorization
 - **2026-11-11** — Wire guarded Market execution frontend
 - **2026-11-11** — Expose Market execution API contract
@@ -83,10 +87,6 @@ GCC is actively developed in a private source repository. This public activity f
 - **2026-11-11** — Explain disabled Limit buy percentages
 - **2026-11-11** — Fit Limit GTC selector text
 - **2026-11-11** — Fit Market IOC selector text
-- **2026-11-11** — Polish Market order preview presentation
-- **2026-11-11** — Add Market order preview mode
-- **2026-11-08** — Harden Donate pending address handling
-- **2026-11-08** — Handle pending deposit addresses and Wallet routes
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

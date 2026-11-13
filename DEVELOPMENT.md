@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 479 published commits from **August 1, 2026** through **November 12, 2026**.
+**Coverage:** 483 published commits from **August 1, 2026** through **November 13, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -582,6 +582,12 @@ Entries are listed chronologically, from the beginning of the project.
 ### November 12, 2026
 
 - Unify Trading order authorization
+- Improve Trading order history presentation
+- Enable Demo market order simulation
+- Authorize Demo market execution route
+### November 13, 2026
+
+- Fix Demo market capability loading
 
 ---
 
