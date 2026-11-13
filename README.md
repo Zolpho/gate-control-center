@@ -28,7 +28,7 @@ Cumulative performance charts and trading metrics for supported native bots.
 
 [![GCC Trading](screenshots/03-trading.webp)](screenshots/03-trading.webp)
 
-Market data, candlestick chart and order book with simulated order entry in Demo.
+Market data, candlestick chart, order book, and simulated Limit and Market order entry in Demo.
 
 ### Wallet
 
@@ -58,9 +58,9 @@ Isolated Demo-session security presentation.
 ## Features
 
 - **Native trading bots:** Monitor and manage supported Gate.io Spot Grid and Infinity Grid bots; review configuration, status and performance.
-- **Portfolio and trading:** Monitor balances and market information, review orders and trading activity, and use supported trading operations through the Gate.io API.
+- **Spot Trading:** Limit and Market Buy/Sell order entry, order previews and confirmations, market data, order history, and supported order management through the Gate.io API. Live execution is subject to account authorization and operational safeguards; Demo trading is simulated.
 - **Wallet:** View assets, balances, and supported deposit, withdrawal and transfer workflows.
-- **Security:** Authentication, per-account action controls, root administrator policies, and auditing.
+- **Security:** Authentication, per-account action controls, Administrator policies, and auditing.
 - **Interfaces:** Aurora, Classic, and isolated Demo experiences.
 
 ## Development Activity
@@ -117,7 +117,7 @@ GCC development and source remain private. Internal implementation work, deploym
 - [Show the actual Gate VIP level for each Wallet account](https://github.com/Zolpho/gate-control-center/issues/5)
 - [Multi-exchange support (KuCoin and Binance)](https://github.com/Zolpho/gate-control-center/issues/6) — **Exploring / nice to have**
 
-Completed public product milestones may also be retained in Issues for context, such as [Demo mode](https://github.com/Zolpho/gate-control-center/issues/4).
+Completed public product milestones may also be retained in Issues for context, such as [Demo mode](https://github.com/Zolpho/gate-control-center/issues/4) and [Limit / Market Trading](https://github.com/Zolpho/gate-control-center/issues/9).
 
 ## Availability
 
