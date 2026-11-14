@@ -69,24 +69,24 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **483** published commits from **August 1, 2026** through **November 13, 2026**.
+**Private `main` history:** **498** published commits from **August 1, 2026** through **November 14, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 16
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 31
 
 ### Recent activity
 
-- **2026-11-13** — Fix Demo market capability loading
-- **2026-11-12** — Authorize Demo market execution route
-- **2026-11-12** — Enable Demo market order simulation
-- **2026-11-12** — Improve Trading order history presentation
-- **2026-11-12** — Unify Trading order authorization
-- **2026-11-11** — Wire guarded Market execution frontend
-- **2026-11-11** — Expose Market execution API contract
-- **2026-11-11** — Add Market execution backend core
-- **2026-11-11** — Prepare Market execution foundation
-- **2026-11-11** — Explain disabled Limit buy percentages
-- **2026-11-11** — Fit Limit GTC selector text
-- **2026-11-11** — Fit Market IOC selector text
+- **2026-11-14** — Polish My Permissions status presentation
+- **2026-11-14** — Compact My Permissions security matrix
+- **2026-11-14** — Add My Permissions security UI
+- **2026-11-14** — Add My Permissions read-only API
+- **2026-11-13** — Refine authorization projection parity
+- **2026-11-13** — Isolate demo authorization projection
+- **2026-11-13** — Add authorization projection parity tests
+- **2026-11-13** — Add read-only authorization projection
+- **2026-11-13** — Add central authorization operation registry
+- **2026-11-13** — Add central authorization decision model
+- **2026-11-13** — Refresh GCC README for completed Spot Market Trading
+- **2026-11-13** — Document GCC security and architecture overview
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

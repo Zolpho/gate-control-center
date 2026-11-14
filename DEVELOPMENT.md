@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 483 published commits from **August 1, 2026** through **November 13, 2026**.
+**Coverage:** 498 published commits from **August 1, 2026** through **November 14, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -588,6 +588,23 @@ Entries are listed chronologically, from the beginning of the project.
 ### November 13, 2026
 
 - Fix Demo market capability loading
+- Show Demo account count in sidebar
+- Simplify sidebar secondary footer
+- Add Codex repository instructions
+- Document GCC security and architecture overview
+- Refresh GCC README for completed Spot Market Trading
+- Add central authorization decision model
+- Add central authorization operation registry
+- Add read-only authorization projection
+- Add authorization projection parity tests
+- Isolate demo authorization projection
+- Refine authorization projection parity
+### November 14, 2026
+
+- Add My Permissions read-only API
+- Add My Permissions security UI
+- Compact My Permissions security matrix
+- Polish My Permissions status presentation
 
 ---
 
