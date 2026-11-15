@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 498 published commits from **August 1, 2026** through **November 14, 2026**.
+**Coverage:** 518 published commits from **August 1, 2026** through **November 15, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -605,6 +605,28 @@ Entries are listed chronologically, from the beginning of the project.
 - Add My Permissions security UI
 - Compact My Permissions security matrix
 - Polish My Permissions status presentation
+- Add Gate AI recommendation foundation
+- Add scoped Bot Control recommendations API
+- Add Gate AI recommendation UX
+- Support live Gate Spot recommendation aliases
+- Polish Gate AI recommendation presentation
+- Add Spot Grid live configuration guide
+- Add illustrative grid diagrams
+- Polish illustrative grid diagrams
+- Redesign grid strategy maps
+- Align grid explainer warning styles
+- Add expandable grid diagram views
+- Restore inline grid guides with Demo references
+- Move grid market labels to right gutter
+### November 15, 2026
+
+- Update security architecture documentation
+- Clarify Exchange API configured state
+- Add Gate API capability snapshot foundation
+- Add read-only Gate capability refresh
+- Use cached Gate capabilities in My Permissions
+- Show Gate API access modes in My Permissions
+- Add Gate capability refresh lifecycle
 
 ---
 

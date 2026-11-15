@@ -69,24 +69,24 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **498** published commits from **August 1, 2026** through **November 14, 2026**.
+**Private `main` history:** **518** published commits from **August 1, 2026** through **November 15, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 31
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 51
 
 ### Recent activity
 
-- **2026-11-14** — Polish My Permissions status presentation
-- **2026-11-14** — Compact My Permissions security matrix
-- **2026-11-14** — Add My Permissions security UI
-- **2026-11-14** — Add My Permissions read-only API
-- **2026-11-13** — Refine authorization projection parity
-- **2026-11-13** — Isolate demo authorization projection
-- **2026-11-13** — Add authorization projection parity tests
-- **2026-11-13** — Add read-only authorization projection
-- **2026-11-13** — Add central authorization operation registry
-- **2026-11-13** — Add central authorization decision model
-- **2026-11-13** — Refresh GCC README for completed Spot Market Trading
-- **2026-11-13** — Document GCC security and architecture overview
+- **2026-11-15** — Add Gate capability refresh lifecycle
+- **2026-11-15** — Show Gate API access modes in My Permissions
+- **2026-11-15** — Use cached Gate capabilities in My Permissions
+- **2026-11-15** — Add read-only Gate capability refresh
+- **2026-11-15** — Add Gate API capability snapshot foundation
+- **2026-11-15** — Clarify Exchange API configured state
+- **2026-11-15** — Update security architecture documentation
+- **2026-11-14** — Move grid market labels to right gutter
+- **2026-11-14** — Restore inline grid guides with Demo references
+- **2026-11-14** — Add expandable grid diagram views
+- **2026-11-14** — Align grid explainer warning styles
+- **2026-11-14** — Redesign grid strategy maps
 
 [**View the complete development history →**](DEVELOPMENT.md)
 
