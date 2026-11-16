@@ -69,12 +69,13 @@ GCC is actively developed in a private source repository. This public activity f
 
 <!-- gcc-development-activity:start -->
 
-**Private `main` history:** **518** published commits from **August 1, 2026** through **November 15, 2026**.
+**Private `main` history:** **519** published commits from **August 1, 2026** through **November 15, 2026**.
 
-**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 51
+**By month:** **August:** 237 · **September:** 106 · **October:** 124 · **November:** 52
 
 ### Recent activity
 
+- **2026-11-15** — Harden Gate VM operator workflow
 - **2026-11-15** — Add Gate capability refresh lifecycle
 - **2026-11-15** — Show Gate API access modes in My Permissions
 - **2026-11-15** — Use cached Gate capabilities in My Permissions
@@ -86,7 +87,6 @@ GCC is actively developed in a private source repository. This public activity f
 - **2026-11-14** — Restore inline grid guides with Demo references
 - **2026-11-14** — Add expandable grid diagram views
 - **2026-11-14** — Align grid explainer warning styles
-- **2026-11-14** — Redesign grid strategy maps
 
 [**View the complete development history →**](DEVELOPMENT.md)
 

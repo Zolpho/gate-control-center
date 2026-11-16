@@ -4,7 +4,7 @@ Gate Control Center is developed in a private source repository. This public arc
 
 It intentionally does **not** publish source code, commit hashes, branches, authors, email addresses, diffs, private repository links, credentials, or operational secrets.
 
-**Coverage:** 518 published commits from **August 1, 2026** through **November 15, 2026**.
+**Coverage:** 519 published commits from **August 1, 2026** through **November 15, 2026**.
 
 Entries are listed chronologically, from the beginning of the project.
 
@@ -627,6 +627,7 @@ Entries are listed chronologically, from the beginning of the project.
 - Use cached Gate capabilities in My Permissions
 - Show Gate API access modes in My Permissions
 - Add Gate capability refresh lifecycle
+- Harden Gate VM operator workflow
 
 ---
 
